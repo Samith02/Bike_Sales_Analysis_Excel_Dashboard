@@ -47,8 +47,7 @@ Key insights obtained from the dashboard:
 
 ## Dashboard Preview
 
-![Dashboard](Bike-Sales-Analysis-Excel-Dashboard
-/screenshots/dashboard-overview.png)
+![Dashboard](Bike-Sales-Analysis-Excel-dashboard/screenshots/dashboard-overview.png)
 
 ## Skills Demonstrated
 - Data Cleaning
